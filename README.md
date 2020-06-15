@@ -1,3 +1,3 @@
 # exec-dash
 Exec-dash project
-I had troubles with pushing the commits to git hub - online. It wouldnt sinch so I had to copy the code to a new file. This is why you wont see the commits thru the process. 
+I had issues with syncing local code with git-hub online. I had to create a new repository to where I copied the complete code.  This is why you cant see the commits I made through the process 
